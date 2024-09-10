@@ -1,0 +1,1 @@
+# GAI-usage-guidelines-across-medical-journals
