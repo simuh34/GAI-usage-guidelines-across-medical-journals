@@ -1,6 +1,4 @@
 library(dplyr)
-df <- read.csv("D:/Chrome/Method 1-V3-20231130.xlsx - 1-200.csv")
-df <- df[!is.na(df$SJR), ]
 
 # random number generator
 ranking <- 1:6974  
