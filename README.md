@@ -1,7 +1,9 @@
 # Generative Artificial Intelligence (GAI) Usage Guidelines for Scholarly Publishing: A Cross-Sectional Study of Medical Journals
 # Overview
 This repository contains the data and code used for the study titled "Generative Artificial Intelligence (GAI) Usage Guidelines for Scholarly Publishing: A Cross-Sectional Study of Medical Journals." The study examines the coverage and types of recommendations regarding GAI usage among medical journals and explores how these factors relate to journal characteristics.
-DOI:https://doi.org/10.1186/s12916-025-03899-1
+
+<br>DOI:https://doi.org/10.1186/s12916-025-03899-1
+
 # Requirement
 R version 4.2 or higher
 # Main analysis included
